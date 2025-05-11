@@ -59,6 +59,9 @@
         <DataProperty IRI="#TGAEventDate"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Alan_Wake_2"/>
     </Declaration>
     <Declaration>
@@ -71,10 +74,16 @@
         <NamedIndividual IRI="#Arcade"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Astro_Bot"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Balatro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bayonetta_3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Best_Action_Game"/>
@@ -137,6 +146,9 @@
         <NamedIndividual IRI="#Cyberpunk_2077"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Deathloop"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#EA_Sports_FC_25"/>
     </Declaration>
     <Declaration>
@@ -152,7 +164,13 @@
         <NamedIndividual IRI="#Final_Fantasy_VII_Remake"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Forza_Motorsport"/>
@@ -167,13 +185,28 @@
         <NamedIndividual IRI="#Games_for_Impact"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Ghost_of_Tsushima"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Grand_Theft_Auto_VI"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Hades"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Halo_Infinite"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Helldivers_II"/>
@@ -185,10 +218,22 @@
         <NamedIndividual IRI="#Innovation_in_Accessibility"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#League_of_Legends"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Linux"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Meta_Quest_2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Meta_Quest_3"/>
@@ -197,19 +242,31 @@
         <NamedIndividual IRI="#Meta_Quest_3S"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Microsoft_Flight_Simulator"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Most_Anticipated_Game"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#MultiVersus"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Neva"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Nintendo_Switch"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Nintendo_Switch_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Oculus_Quest_2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Phasmophobia"/>
@@ -230,13 +287,25 @@
         <NamedIndividual IRI="#Players_Voice"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Resident_Evil_Village"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Returnal"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Sea_of_Stars"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Splatoon_3"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Stadia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Stray"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Street_Fighter_6"/>
@@ -260,6 +329,9 @@
         <NamedIndividual IRI="#TGA_2024"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Tchia"/>
     </Declaration>
     <Declaration>
@@ -272,7 +344,13 @@
         <NamedIndividual IRI="#The_Last_of_Us_Part_II"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Valorant"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Windows"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Xbox_360"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Xbox_One"/>
@@ -320,10 +398,25 @@
         <NamedIndividual IRI="#Honkai:_Star_Rail"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Metaphor:_ReFantazio"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Mortal_Kombat_11:_Ultimate_Edition"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#No_Man&apos;s_Sky"/>
@@ -361,6 +454,10 @@
     </SubClassOf>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Alan_Wake_2"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -377,11 +474,19 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Astro_Bot"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
         <NamedIndividual IRI="#Balatro"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Category"/>
@@ -465,6 +570,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Deathloop"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#EA_Sports_FC_25"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -485,7 +594,15 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -505,7 +622,19 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Ghost_of_Tsushima"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -513,7 +642,15 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Hades"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -529,11 +666,27 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#League_of_Legends"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Platform"/>
         <NamedIndividual IRI="#Linux"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Platform"/>
+        <NamedIndividual IRI="#Meta_Quest_2"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Platform"/>
@@ -545,6 +698,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Microsoft_Flight_Simulator"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -553,7 +710,15 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Neva"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Platform"/>
@@ -562,6 +727,10 @@
     <ClassAssertion>
         <Class IRI="#Platform"/>
         <NamedIndividual IRI="#Nintendo_Switch_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Platform"/>
+        <NamedIndividual IRI="#Oculus_Quest_2"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -589,15 +758,31 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Resident_Evil_Village"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Returnal"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
         <NamedIndividual IRI="#Sea_of_Stars"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Platform"/>
         <NamedIndividual IRI="#Stadia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Stray"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -629,6 +814,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Tchia"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -644,8 +833,16 @@
         <NamedIndividual IRI="#The_Last_of_Us_Part_II"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Valorant"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Platform"/>
         <NamedIndividual IRI="#Windows"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Platform"/>
+        <NamedIndividual IRI="#Xbox_360"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Platform"/>
@@ -709,11 +906,31 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
         <NamedIndividual IRI="#Metaphor:_ReFantazio"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
         <NamedIndividual IRI="#Mortal_Kombat_11:_Ultimate_Edition"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Game"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Game"/>
@@ -739,6 +956,26 @@
         <Class IRI="#Platform"/>
         <NamedIndividual IRI="#Xbox_Series_X/S"/>
     </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <NamedIndividual IRI="#Best_Sim_/_Strategy_Game"/>
+    </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Alan_Wake_2"/>
@@ -818,6 +1055,36 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Among_Us"/>
         <NamedIndividual IRI="#Best_Multiplayer_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <NamedIndividual IRI="#Games_for_Impact"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -906,6 +1173,16 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
+        <NamedIndividual IRI="#Best_Action_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Cocoon"/>
         <NamedIndividual IRI="#Nintendo_Switch"/>
     </ObjectPropertyAssertion>
@@ -986,6 +1263,31 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <NamedIndividual IRI="#Best_Art_Direction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <NamedIndividual IRI="#Best_Game_Direction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#EA_Sports_FC_25"/>
         <NamedIndividual IRI="#Nintendo_Switch"/>
     </ObjectPropertyAssertion>
@@ -1048,6 +1350,26 @@
         <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Elden_Ring"/>
         <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Elden_Ring"/>
+        <NamedIndividual IRI="#Best_Art_Direction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Elden_Ring"/>
+        <NamedIndividual IRI="#Best_Game_Direction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Elden_Ring"/>
+        <NamedIndividual IRI="#Best_Role_Playing_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Elden_Ring"/>
+        <NamedIndividual IRI="#Game_of_the_Year"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#won"/>
@@ -1151,6 +1473,46 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#PlayStation_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#macOS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#Best_Community_Support"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <NamedIndividual IRI="#Best_Ongoing_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
         <NamedIndividual IRI="#PlayStation_5"/>
     </ObjectPropertyAssertion>
@@ -1163,6 +1525,41 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
         <NamedIndividual IRI="#Best_Score_and_Music"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Best_Audio_Design"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Innovation_in_Accessibility"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <NamedIndividual IRI="#Best_Sports_/_Racing_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -1211,6 +1608,46 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#Android"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#iOS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#Best_Mobile_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <NamedIndividual IRI="#Players_Voice"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Ghost_of_Tsushima"/>
         <NamedIndividual IRI="#PlayStation_4"/>
     </ObjectPropertyAssertion>
@@ -1236,6 +1673,61 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Best_Audio_Design"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Best_Narrative"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Best_Score_and_Music"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Innovation_in_Accessibility"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <NamedIndividual IRI="#Best_Action_/_Adventure_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
+        <NamedIndividual IRI="#Best_Sports_/_Racing_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Grand_Theft_Auto_VI"/>
         <NamedIndividual IRI="#PlayStation_5"/>
     </ObjectPropertyAssertion>
@@ -1248,6 +1740,46 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Grand_Theft_Auto_VI"/>
         <NamedIndividual IRI="#Most_Anticipated_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Arcade"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <NamedIndividual IRI="#Best_Fighting_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -1296,6 +1828,26 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <NamedIndividual IRI="#Players_Voice"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Helldivers_II"/>
         <NamedIndividual IRI="#PlayStation_5"/>
     </ObjectPropertyAssertion>
@@ -1336,6 +1888,66 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Best_Family_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Best_Multiplayer_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <NamedIndividual IRI="#Game_of_the_Year"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <NamedIndividual IRI="#Nintendo_Switch_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <NamedIndividual IRI="#Best_Family_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#League_of_Legends"/>
         <NamedIndividual IRI="#Windows"/>
     </ObjectPropertyAssertion>
@@ -1351,6 +1963,36 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <NamedIndividual IRI="#Android"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <NamedIndividual IRI="#iOS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <NamedIndividual IRI="#Best_Mobile_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <NamedIndividual IRI="#Best_Action_/_Adventure_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Microsoft_Flight_Simulator"/>
         <NamedIndividual IRI="#Windows"/>
     </ObjectPropertyAssertion>
@@ -1363,6 +2005,36 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Microsoft_Flight_Simulator"/>
         <NamedIndividual IRI="#Best_Sim_/_Strategy_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <NamedIndividual IRI="#Best_Fighting_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -1401,6 +2073,36 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#PlayStation_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#Xbox_360"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <NamedIndividual IRI="#Best_Score_and_Music"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Phasmophobia"/>
         <NamedIndividual IRI="#PlayStation_5"/>
     </ObjectPropertyAssertion>
@@ -1428,6 +2130,16 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Pikmin_4"/>
         <NamedIndividual IRI="#Best_Sim_/_Strategy_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+        <NamedIndividual IRI="#Oculus_Quest_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+        <NamedIndividual IRI="#Best_VR_/_AR_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -1486,6 +2198,21 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <NamedIndividual IRI="#Best_Action_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Sea_of_Stars"/>
         <NamedIndividual IRI="#Nintendo_Switch"/>
     </ObjectPropertyAssertion>
@@ -1517,6 +2244,61 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Sea_of_Stars"/>
+        <NamedIndividual IRI="#Best_Independent_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+        <NamedIndividual IRI="#Best_Multiplayer_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#macOS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Stray"/>
+        <NamedIndividual IRI="#Best_Debut_Indie_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Stray"/>
         <NamedIndividual IRI="#Best_Independent_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2176,6 +2958,36 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#Best_Role_Playing_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Tchia"/>
         <NamedIndividual IRI="#Nintendo_Switch"/>
     </ObjectPropertyAssertion>
@@ -2283,6 +3095,26 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#The_Last_of_Us_Part_II"/>
         <NamedIndividual IRI="#Best_Action_/_Adventure_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <NamedIndividual IRI="#Best_Esports_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -2451,6 +3283,126 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#Best_Debut_Indie_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <NamedIndividual IRI="#Best_Independent_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Stadia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <NamedIndividual IRI="#Games_for_Impact"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+        <NamedIndividual IRI="#Best_Sim_/_Strategy_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#Nintendo_Switch"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#Xbox_One"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#Xbox_Series_X/S"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <NamedIndividual IRI="#Best_Narrative"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
         <NamedIndividual IRI="#Metaphor:_ReFantazio"/>
         <NamedIndividual IRI="#PlayStation_4"/>
     </ObjectPropertyAssertion>
@@ -2518,6 +3470,31 @@
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#Mortal_Kombat_11:_Ultimate_Edition"/>
         <NamedIndividual IRI="#Best_Fighting_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <NamedIndividual IRI="#Meta_Quest_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <NamedIndividual IRI="#PlayStation_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <NamedIndividual IRI="#PlayStation_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#availableOn"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <NamedIndividual IRI="#Windows"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <NamedIndividual IRI="#Best_VR_/_AR_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#availableOn"/>
@@ -2642,6 +3619,11 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#won"/>
         <NamedIndividual IRI="#The_Legend_of_Zelda:_Tears_of_the_Kingdom"/>
+        <NamedIndividual IRI="#Most_Anticipated_Game"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#won"/>
+        <NamedIndividual IRI="#The_Legend_of_Zelda:_Tears_of_the_Kingdom"/>
         <NamedIndividual IRI="#Best_Action_/_Adventure_Game"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2679,6 +3661,26 @@
         <NamedIndividual IRI="#Tony_Hawk&apos;s_Pro_Skater_1_+_2"/>
         <NamedIndividual IRI="#Best_Sports_/_Racing_Game"/>
     </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <Literal>Relic Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <Literal>World&apos;s Edge</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <Literal>Real-time strategy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Age_of_Empires_IV"/>
+        <Literal>Xbox Game Studios</Literal>
+    </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Alan_Wake_2"/>
@@ -2708,6 +3710,26 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Among_Us"/>
         <Literal>Innersloth</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <Literal>Interior Night</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <Literal>Adventure, interactve fiction</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <Literal>Interior Night</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#As_Dusk_Falls"/>
+        <Literal>Xbox Game Studios</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -2741,6 +3763,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
+        <Literal>PlatinumGames</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
+        <Literal>Actiion-adventure, hack and slash</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Bayonetta_3"/>
+        <Literal>Nintendo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Cocoon"/>
         <Literal>Geometric Interactive</Literal>
     </DataPropertyAssertion>
@@ -2768,6 +3805,21 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Cyberpunk_2077"/>
         <Literal>CD Projekt</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <Literal>Arkane Lyon</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <Literal>First-person shooter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Deathloop"/>
+        <Literal>Bethesda Softworks</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -2856,6 +3908,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <Literal>Square Enix Business Division 5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <Literal>MMORPG</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Final_Fantasy_XIV"/>
+        <Literal>Square Enix</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
         <Literal>Square Enix</Literal>
     </DataPropertyAssertion>
@@ -2868,6 +3935,21 @@
         <DataProperty IRI="#Genre"/>
         <NamedIndividual IRI="#Final_Fantasy_XVI"/>
         <Literal>Action role-playing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <Literal>Playground Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <Literal>Racing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Forza_Horizon_5"/>
+        <Literal>Xbox Game Studios</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -2901,6 +3983,26 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <Literal>MiHoYo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <Literal>Action role-playing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <Literal>HoYoverse</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Genshin_Impact"/>
+        <Literal>MiHoYo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Ghost_of_Tsushima"/>
         <Literal>Sucker Punch Productions</Literal>
     </DataPropertyAssertion>
@@ -2912,6 +4014,36 @@
     <DataPropertyAssertion>
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Ghost_of_Tsushima"/>
+        <Literal>Sony Interactive Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <Literal>Santa Monica Studio</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <Literal>Action-adventure, hack and slash</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#God_of_War_Ragnarök"/>
+        <Literal>Sony Interactive Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
+        <Literal>Polyphony Digital</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
+        <Literal>Sim racing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Gran_Turismo_7"/>
         <Literal>Sony Interactive Entertainment</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
@@ -2931,6 +4063,31 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <Literal>Arc System Works</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <Literal>Fighting</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <Literal>Arc System Works</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <Literal>Bandai Namco Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Guilty_Gear_Strive"/>
+        <Literal>Sega</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Hades"/>
         <Literal>Supergiant Games</Literal>
     </DataPropertyAssertion>
@@ -2943,6 +4100,21 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Hades"/>
         <Literal>Supergiant Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <Literal>343 Industries</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <Literal>First-person shooter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Halo_Infinite"/>
+        <Literal>Xbox Game Studios</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -2976,6 +4148,36 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <Literal>Hazelight Studios</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <Literal>Action-aventure, platform</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#It_Takes_Two"/>
+        <Literal>Electronic Arts</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <Literal>HAL Laboratory</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <Literal>Action, platform</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Kirby_and_the_Forgotten_Land"/>
+        <Literal>Nintendo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#League_of_Legends"/>
         <Literal>Riot Games</Literal>
     </DataPropertyAssertion>
@@ -2988,6 +4190,46 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#League_of_Legends"/>
         <Literal>Riot Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <Literal>Second Dinner</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <Literal>Digital collectibel card game</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <Literal>Nuverse</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Marvel_Snap"/>
+        <Literal>Skystone Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <Literal>MercurySteam</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <Literal>Nintendo EPD</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <Literal>Action-adventure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Metroid_Dread"/>
+        <Literal>Nintendo</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -3006,6 +4248,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <Literal>Player First Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <Literal>Fighting</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#MultiVersus"/>
+        <Literal>Warner Bros. Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Neva"/>
         <Literal>Nomada Studio</Literal>
     </DataPropertyAssertion>
@@ -3018,6 +4275,21 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Neva"/>
         <Literal>Devolver Digital</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <Literal>Cavia</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <Literal>Action role-playing, hack and slash</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Nier_Replicant_ver_1.22474487139"/>
+        <Literal>Square Enix</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -3056,6 +4328,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+        <Literal>Capcom Production Studio 4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+        <Literal>Survival-horror, third-person shooter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Resident_Evil_4"/>
+        <Literal>Capcom</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Resident_Evil_Village"/>
         <Literal>Capcom</Literal>
     </DataPropertyAssertion>
@@ -3071,6 +4358,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <Literal>Housemarque</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <Literal>Third-person shooter, roguelike</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Returnal"/>
+        <Literal>Sony Interactive Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Sea_of_Stars"/>
         <Literal>Sabotage Studio</Literal>
     </DataPropertyAssertion>
@@ -3083,6 +4385,36 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Sea_of_Stars"/>
         <Literal>Sabotage Studio</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+        <Literal>Nintendo EPD</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+        <Literal>Third-person shooter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Splatoon_3"/>
+        <Literal>Nintendo</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Stray"/>
+        <Literal>BlueTwelve Studio</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Stray"/>
+        <Literal>Adventure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Stray"/>
+        <Literal>Annapurna Interactive</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -3191,6 +4523,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <Literal>Bandai Namco Studios</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <Literal>Action role-playing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Tales_of_Arise"/>
+        <Literal>Bandai Namco Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Tchia"/>
         <Literal>Awaceb</Literal>
     </DataPropertyAssertion>
@@ -3253,6 +4600,21 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#The_Last_of_Us_Part_II"/>
         <Literal>Sony Interactive Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <Literal>Riot Games</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <Literal>Hero shooter, tactical shooter</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Valorant"/>
+        <Literal>Riot Games</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
@@ -3361,6 +4723,66 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <Literal>Ember Lab</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <Literal>Action-adventure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Kena:_Bridge_of_Spirits"/>
+        <Literal>Ember Lab</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <Literal>Deck Nine</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <Literal>Adventure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Life_Is_Strange:_True_Colors"/>
+        <Literal>Square Enix</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+        <Literal>Ubisoft Milan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+        <Literal>Ubisoft Paris</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Mario_+_Rabbids_Sparks_of_Hope"/>
+        <Literal>Ubisoft</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <Literal>Eidos-Montréal</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <Literal>Action-adventure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Marvel&apos;s_Guardians_of_the_Galaxy"/>
+        <Literal>Square Enix</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
         <NamedIndividual IRI="#Metaphor:_ReFantazio"/>
         <Literal>Studio Zero</Literal>
     </DataPropertyAssertion>
@@ -3393,6 +4815,21 @@
         <DataProperty IRI="#Publisher"/>
         <NamedIndividual IRI="#Mortal_Kombat_11:_Ultimate_Edition"/>
         <Literal>Warner Bros. Interactive Entertainment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Developer"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <Literal>Polyarc</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Genre"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <Literal>Adventure, puzzle</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Publisher"/>
+        <NamedIndividual IRI="#Moss:_Book_II"/>
+        <Literal>Polyarc</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#Developer"/>
